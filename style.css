@@ -1,0 +1,104 @@
+*{
+  box-sizing: border-box;
+
+}
+
+.conteiner{
+  width: 1000px;
+  margin:auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header, h1{
+  text-align: center;
+  color: rgba(0, 231, 0, 1);
+  margin-top: 20px;
+}
+
+.riquadro{
+  width: 1225px;
+  height: 900px;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  z-index: -1;
+  margin-left: 18%;
+  border-radius: 20px;
+
+}
+
+body{
+margin-top: 100px;
+background-image: url(background.jpg);
+background-size: 100%;
+}
+
+.top-bar{
+  width: 1000px;
+  height: 60px;
+  padding-top: 15px;
+  background-color: rgba(0, 231, 0, 1);
+  margin-left: 0px;
+}
+
+.carica1{
+  width: 600px;
+  height: 50px;
+  padding-top: 40px;
+  background-color: rgba(245, 180, 83, 1);
+  border-radius: 10px;
+  margin-left: 0px;
+}
+
+.carica2{
+  width: 1000px;
+  height: 50px;
+  padding-top: 40px;
+  background-color: rgba(30, 195, 30, 1);
+  border-radius: 10px;
+  margin-left: 0px;
+}
+
+.carica3{
+  width: 300px;
+  height: 50px;
+  padding-top: 40px;
+  background-color: rgba(190, 65, 65, 1);
+  border-radius: 10px;
+  margin-left: 0px;
+}
+
+
+.logo{
+  width: 250px
+}
+
+.titolo{
+  font-size: 35px;
+}
+
+nav, input{
+  text-align: center;
+}
+
+
+.primo-Monopattino{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.secondo-Monopattino{
+  margin-bottom: 30px;
+}
+
+
+main, h2{
+  display: inline-block;
+  margin-bottom: 1px;
+  color: white;
+}
+main, p{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  color: white;
+}
